@@ -23,3 +23,12 @@ Policy Content: [
         "fileTypes": [  
 ...  
 ```
+
+
+
+More info:
+
+FileType:
+https://developer.cisco.com/docs/ftd-api-reference-v6-ftd-v6-7/getfiletype/
+Rule:
+https://developer.cisco.com/docs/ftd-api-reference-v6-ftd-v6-7/addfilerule/#filetypecategory
