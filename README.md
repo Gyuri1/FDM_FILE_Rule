@@ -10,7 +10,8 @@ Please update the FDM hostname, credential, policy name and filetype in the scri
 
 # How to run  
 
-```python3 fdm-block-file.py  
+```
+python3 fdm-block-file.py  
 Token Received.  
 File Policy Found.  
 Policy Content: [  
