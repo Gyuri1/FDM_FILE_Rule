@@ -26,6 +26,30 @@ Policy Content: [
 
 
 
+```py
+python3 fdm-create-file-policy.py -n test1  
+Token Received.  
+Policy Content: [  
+    {  
+        "version": "jpxgk244krer5",  
+        "name": "Block Malware All",  
+        "description": "Block Malware in all file categories",  
+        "firstTimeAnalysis": true,  
+     
+```
+
+
+```py 
+python3 fdm-delete-file-policy.py -n test1  
+Token Received.  
+ID: 4a2e48cb-1075-11ef-944b-57fb5d896911  
+Deleting File Policy: test1  
+Done: <Response [204]>  
+```
+
+
+
+
 More info:  
 
 
